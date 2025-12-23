@@ -1,1 +1,2 @@
 "# eduTrack-AI-" 
+"# EduTrack-Ai" 
